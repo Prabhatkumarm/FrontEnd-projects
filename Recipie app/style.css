@@ -1,0 +1,37 @@
+body{
+    background-color: #faedcd;
+    display: flex;
+    
+    justify-content: center;
+    
+}
+svg{
+    margin: 2px;
+    height: 30px;
+    width: 30px;
+    overflow: hidden;
+    
+}
+input{
+    width: 300px;
+    height: 30px;
+    border: none;
+    background-color: #e9edc9;
+}
+.main-container{
+    
+    /* border: 1px solid red; */
+    width: 400px;
+    background-color: #c9ada7;
+    box-shadow: 0 0 20px 2px #c9ada7;
+    border-radius: 10px;
+}
+.first{
+    width: 380px;
+    display:flex;
+    border: 1px solid black;
+    margin: 5px auto;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around;
+}
